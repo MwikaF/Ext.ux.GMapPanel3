@@ -1,0 +1,6 @@
+= Google Maps Panel 3
+An ExtJs extension panel that displays a Google Map with map click function.
+Code based on VinylFox-ExtJS.ux.GMapPanel.
+
+== Compatibility
+* Ext.ux.GMapPanel3.js - Google Maps V3 & ExtJS 3
